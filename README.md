@@ -1,9 +1,9 @@
 # Банковский перевод
 
-![Image alt](https://github.com/
-![Image alt](https://github.com/
-![Image alt](https://github.com/
-![Image alt](https://github.com/
+* ![Image alt](https://github.com/TaniachiFractal/CSexamPrep-BankTransfer/blob/master/bankTransfer_main.png)
+* ![Image alt](https://github.com/TaniachiFractal/CSexamPrep-BankTransfer/blob/master/bankTransfer_confirm.png)
+* ![Image alt](https://github.com/TaniachiFractal/CSexamPrep-BankTransfer/blob/master/bankTransfer_error.png)
+* ![Image alt](https://github.com/TaniachiFractal/CSexamPrep-BankTransfer/blob/master/bankTransfer_receipt.png)
 
 
 Разработать прикладное приложение с графическим интерфейсом. Приложение предназначено для заполнения упрощенного платежного поручения.
